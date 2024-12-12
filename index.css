@@ -1,11 +1,16 @@
 body{
     font-family: Calibri, 'Trebuchet MS', sans-serif;
+    align-items: center;
 }
 
 .welcome{
-
+    height: 40%;
+    width: 50%;
     align-items: center;
-    margin: auto;
-    background-color: ;
+    margin: 25%;
+    background-color: #6939E3;
+    padding: auto;
+
+
 
 }
