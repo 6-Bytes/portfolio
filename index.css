@@ -1,7 +1,14 @@
 body{
     font-family: Calibri, 'Trebuchet MS', sans-serif;
+    background-color: blanchedalmond;
+
     align-items: center;
+
 }
+
+
+
+
 
 .welcome{
     height: 40%;
@@ -14,3 +21,4 @@ body{
 
 
 }
+
