@@ -44,12 +44,16 @@ body{
 #skills-icons{ 
     padding: 50px;
     display: flex;
+    height: 35vh;
+    width: 45vw;
     justify-content: space-between;
     align-items: center;
 
 }
 
-
+.skill-logo{ 
+    height: 70%;
+}
 
 #name-prefix{ 
     /* background-color: yellowgreen; */
