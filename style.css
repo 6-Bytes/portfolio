@@ -44,7 +44,7 @@ body{
 #skills-icons{ 
     padding: 50px;
     background-color: yellowgreen;
-    padding: 70px;
+    padding: 10px;
     height: 35vh;
     width: 45vw;
     display: flex;
@@ -55,7 +55,7 @@ body{
 
 .skill-logo{ 
     background-color: brown;
-    padding: 70px;
+    padding: 10px;
     height: 70%;
 }
 
