@@ -43,15 +43,17 @@ body{
 
 #skills-icons{ 
     padding: 50px;
-    display: flex;
+    background-color: yellowgreen;
     height: 35vh;
     width: 45vw;
+    display: flex;
     justify-content: space-between;
     align-items: center;
 
 }
 
 .skill-logo{ 
+    background-color: brown;
     height: 70%;
 }
 
