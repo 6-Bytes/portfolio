@@ -1,6 +1,6 @@
 body{
    font-family:  Calibri, 'Trebuchet MS', sans-serif;
-
+    
 }
 
 .block1{
@@ -15,8 +15,8 @@ body{
 
 .topbar{
     background-color: blueviolet;
-    width: 30%;
-    height: 30px;
+    width: 35%;
+    height: 40px;
     text-align: center;
     display: flex;
     justify-content: space-around;
@@ -39,11 +39,17 @@ body{
     justify-content:start;
     align-items: start; */
     
+}
 
-
-    
+#skills-icons{ 
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 
 }
+
+
 
 #name-prefix{ 
     /* background-color: yellowgreen; */
