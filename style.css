@@ -46,7 +46,7 @@ body{
     background-color: yellowgreen;
     padding: 10px;
     height: 35vh;
-    width: 45vw;
+    width: 100vw;
     display: flex;
     justify-content: space-between;
     align-items: center;
