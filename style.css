@@ -57,6 +57,7 @@ body{
     background-color: brown;
     padding: 10px;
     height: 70%;
+    width: 100vw;
 }
 
 #name-prefix{ 
