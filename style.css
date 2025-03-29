@@ -14,7 +14,7 @@ body{
 }
 
 .topbar{
-    background-color: blueviolet;
+/*    background-color: blueviolet; */
     width: 35%;
     height: 40px;
     text-align: center;
@@ -23,10 +23,10 @@ body{
     float: right;
     margin-top: -15%;
     
-
 }
 .topbar li{
-     text-align: center;
+
+    text-align: center;
     /* padding: 10px; */
 }
 
@@ -43,7 +43,7 @@ body{
 
 #skills-icons{ 
     padding: 50px;
-    background-color: yellowgreen;
+ /*   background-color: yellowgreen;*/
     padding: 10px;
     height: 35vh;
     width: 100vw;
@@ -54,7 +54,7 @@ body{
 }
 
 .skill-logo{ 
-    background-color: brown;
+    /*background-color: brown;*/
     padding: 10px;
     height: 70%;
     width: 100vw;
